@@ -1,0 +1,13 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+
+*.log
+*.VC.db
+*.VC.opendb
+
+.DS_Store
+Thumbs.db
