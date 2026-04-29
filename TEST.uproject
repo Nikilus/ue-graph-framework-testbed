@@ -8,11 +8,6 @@
       "Name": "TEST",
       "Type": "Runtime",
       "LoadingPhase": "Default"
-    },
-    {
-      "Name": "TESTEditor",
-      "Type": "Editor",
-      "LoadingPhase": "Default"
     }
   ],
   "Plugins": [
